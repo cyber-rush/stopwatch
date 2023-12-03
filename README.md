@@ -13,7 +13,7 @@ This is a simple Stopwatch web application built using React.
 
 ## Demo
 
-You can find a live demo of the Stopwatch App [here]([<demo_link_here>](https://stopwatch-rho-sooty.vercel.app/)).
+You can find a live demo of the Stopwatch App [here]([https://stopwatch-rho-sooty.vercel.app/]
 
 ## Installation
 
