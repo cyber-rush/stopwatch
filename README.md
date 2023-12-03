@@ -2,8 +2,7 @@
 
 This is a simple Stopwatch web application built using React.
 
-![Stopwatch App Screenshot](![image](https://github.com/cyber-rush/stopwatch/assets/66362774/039f3bff-cec5-4304-b84f-f99cc9aac701)
-)
+![Stopwatch App Screenshot](https://github.com/cyber-rush/stopwatch/assets/66362774/039f3bff-cec5-4304-b84f-f99cc9aac701)
 
 ## Features
 
