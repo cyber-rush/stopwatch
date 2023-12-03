@@ -19,3 +19,13 @@ You can find a live demo of the Stopwatch App [here](https://stopwatch-rho-sooty
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/stopwatch-app.git
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Start the application:
+   ```bash
+   npm run dev
+
+   
