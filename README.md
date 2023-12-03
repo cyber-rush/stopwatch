@@ -28,4 +28,20 @@ You can find a live demo of the Stopwatch App [here](https://stopwatch-rho-sooty
    ```bash
    npm run dev
 
+## Usage
+
+- Click the "Start" button to begin the stopwatch.
+- Use the "Stop" button to pause the stopwatch.
+- Press the "Reset" button to set the stopwatch back to zero.
+
+## Technologies Used
+
+- React
+- HTML/CSS
+- JavaScript
+- Tailwind
+
+## Contributing
+   
+   Contributions are welcome! Feel free to open issues or pull requests.
    
